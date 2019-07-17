@@ -38,6 +38,9 @@ class _AMap2DViewState extends State<AMap2DView> {
       widget.onAMap2DViewCreated(controller);
     }
   }
+
+
+
   
   @override
   Widget build(BuildContext context) {
